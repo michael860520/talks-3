@@ -300,7 +300,7 @@ Choose the <b text-white:75>right tool</b> based on team size:
 <div flex="~ gap-2 items-center">
   <div flex="~ gap-2 items-center" v-click>
     <div i-carbon-user-multiple text-2xl />
-    <span font-bold>Medium Team (5-15 people)?</span>
+    <span font-bold>Medium Team (5-10 people)?</span>
   </div>
   <span v-click op75 ml4>Turborepo for better caching & parallelization</span>
 </div>
@@ -308,7 +308,7 @@ Choose the <b text-white:75>right tool</b> based on team size:
 <div flex="~ gap-2 items-center">
   <div flex="~ gap-2 items-center" v-click>
     <div i-carbon-enterprise text-2xl />
-    <span font-bold>Large Team (15+ people)?</span>
+    <span font-bold>Large Team (10+ people)?</span>
   </div>
   <span v-click op75 ml4 flex="~ items-center gap1">Nx for enterprise features & dependency graph</span>
 </div>
