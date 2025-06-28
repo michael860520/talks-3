@@ -1,5 +1,3 @@
-# Anthony's Roads to Open Source - The Progressive Path
+# OXC Performance Breakthrough
 
-2024/02/28
-
-[Vue Amsterdam 2023](https://vuejs.amsterdam/)
+2025/06/29
